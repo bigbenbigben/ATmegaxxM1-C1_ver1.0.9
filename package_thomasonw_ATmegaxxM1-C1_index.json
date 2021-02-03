@@ -191,7 +191,7 @@
           "help": {
             "online": ""
           },
-          "url": "C:\Users\user\Documents\Arduino\board_manager\ATmegaxxM1-C1\ATmegaxxM1-C1-1.0.9.tar.gz",
+          "url": "https://github.com/bigbenbigben/ATmegaxxM1-C1_ver1.0.9/blob/gh-pages/ATmegaxxM1-C1-1.0.9.tar.gz",
           "archiveFileName": "ATmegaxxM1-C1-1.0.9.tar.gz",
           "checksum": "SHA-256:bd60329339e7fbcd666019cb3edf88429ead3d328f91f9dd1f9d87ceafc95d14",
           "size": "109047",
