@@ -164,7 +164,7 @@
           },
           "url": "https://github.com/thomasonw/ATmegaxxM1-C1/raw/gh-pages/ATmegaxxM1-C1-1.0.8.tar.gz",
           "archiveFileName": "ATmegaxxM1-C1-1.0.8.tar.gz",
-          "checksum": "SHA-256:B0D9A5667874E9EDBBA8EF7A0FBA13879746D134006EFC17AF0D0962EEB88692",
+          "checksum": "SHA-256:b0d9a5667874e9edbba8ef7a0fba13879746d134006efc17af0d0962eeb88692",
           "size": "103708",
           "boards": [
             {"name": "ATmega32M1"},
