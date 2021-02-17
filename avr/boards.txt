@@ -1,4 +1,4 @@
-# Modifed 18-2-2021 - bigben - to enable ATmega16M1, ATmega32M1 and ATmega64M1
+# Modifed 18-2-2021 - bigben - to enable ATmega16M1, ATmega32M1 and ATmega64M1 
 # Modifed 3-3-2015 - Al Thomason - to enable ATmega32M1 and ATmega64M1 uC's
 # As used on Arduino MPPT controller
 # See: http://smartMPPT.blogspot.com/
@@ -90,8 +90,8 @@ ATmegaxxM1/C1.menu.clock.8MHz_internal.build.core=arduino
 ATmegaxxM1/C1.menu.clock.8MHz_internal.build.f_cpu=8000000L
 ATmegaxxM1/C1.menu.clock.8MHz_internal=8MHz Internal
 ATmegaxxM1/C1.menu.clock.8MHz_internal.upload.speed=57600
-ATmegaxxM1/C1.menu.clock.8MHz_internal.bootloader.low_fuses=0xF2
-ATmegaxxM1/C1.menu.clock.8MHz_internal.bootloader.high_fuses=0xDE
+ATmegaxxM1/C1.menu.clock.8MHz_internal.bootloader.low_fuses=0xE2
+ATmegaxxM1/C1.menu.clock.8MHz_internal.bootloader.high_fuses=0xDF
 ATmegaxxM1/C1.menu.clock.8MHz_internal.bootloader.file=optiboot/optiboot_{build.name2}_8MHz.hex
 
 
@@ -158,8 +158,8 @@ CanDuino.menu.clock.8MHz_internal.build.core=arduino
 CanDuino.menu.clock.8MHz_internal.build.f_cpu=8000000L
 CanDuino.menu.clock.8MHz_internal=8MHz Internal
 CanDuino.menu.clock.8MHz_internal.upload.speed=57600
-CanDuino.menu.clock.8MHz_internal.bootloader.low_fuses=0xE2
-CanDuino.menu.clock.8MHz_internal.bootloader.high_fuses=0xDF
+CanDuino.menu.clock.8MHz_internal.bootloader.low_fuses=0xF2
+CanDuino.menu.clock.8MHz_internal.bootloader.high_fuses=0xDE
 CanDuino.menu.clock.8MHz_internal.bootloader.file=optiboot/optiboot_{build.name2}_8MHz.hex
 
 
