@@ -100,7 +100,7 @@ Option 1)  Arduino Board Package Manager:
    3. Click the 'window box' to the right of the 'Additional Boards manager URLs:' entry window.
       * This will allow you to add more than one entry
    4. Copy the following URL into the box.
-       * https://thomasonw.github.io/ATmegaxxM1-C1/package_thomasonw_ATmegaxxM1-C1_index.json
+       * https://raw.githubusercontent.com/bigbenbigben/ATmegaxxM1-C1_ver1.0.9/gh-pages/package_thomasonw_ATmegaxxM1-C1_index.json
    5. Press OK button to close the data entry window
    6. Press OK button to close the Preferences menu.
    7. Open the Tools/Boards menu and select Boards Manager
