@@ -193,8 +193,8 @@
           },
           "url": "https://github.com/bigbenbigben/ATmegaxxM1-C1_ver1.0.9/raw/gh-pages/ATmegaxxM1-C1-1.0.9.tar.gz",
           "archiveFileName": "ATmegaxxM1-C1-1.0.9.tar.gz",
-          "checksum": "SHA-256:BDD2DF94BD69DD0A220AB4DFC6D1AAAC568027D041F4FE57CCC3A8CF9001BCCB",
-          "size": "108936",
+          "checksum": "SHA-256:1117E79659790D454E864D5F4D2A6C057BE77185DC04C0DC96BCDEA587E35E91",
+          "size": "112543",
           "boards": [
             {"name": "ATmega16M1"},
             {"name": "ATmega32M1"},
